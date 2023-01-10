@@ -1,0 +1,8 @@
+@include('assets.a_header')
+@include('assets.b_hero')
+@include('assets.c_news')
+@include('assets.d_feature')
+@include('assets.e_game')
+@include('assets.f_tournaments')
+@include('assets.g_review')
+@include('assets.h_footer')
