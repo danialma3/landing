@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-  <title>Game Warrior Template</title>
+  <title>Acara Weaboo</title>
   <meta charset="UTF-8">
   <meta name="description" content="Game Warrior Template">
   <meta name="keywords" content="warrior, game, creative, html">
@@ -30,6 +30,3 @@
 </head>
 
 <body>
-  <audio autoplay="true" src="{{asset('assets/tema/music')}}/musica.mp3" type="audio/mp3">
-    TIDAK SUPPORT
-  </audio>

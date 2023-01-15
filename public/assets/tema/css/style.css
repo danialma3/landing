@@ -142,7 +142,7 @@ ol {
 	border-radius: 50px;
 	font-weight: 500;
 	border: none;
-	background: #ffb320;
+	background: radial-gradient(circle at top left, #ff0078, #f6efa7);
 	cursor: pointer;
 }
 
@@ -252,7 +252,7 @@ ol {
 ---------------------*/
 
 .header-section {
-	background: #131313;
+	background: radial-gradient(circle at top left, #DAFEA4, #F254A8);
 	clear: both;
 	overflow: hidden;
 	padding: 18px 0;
@@ -268,7 +268,7 @@ ol {
 .user-panel {
 	float: right;
 	font-weight: 500;
-	background: #ffb320;
+	background: radial-gradient(circle at top left, #ff0078, #f6efa7);
 	padding: 8px 28px;
 	border-radius: 30px;
 }
@@ -415,7 +415,7 @@ ol {
 	overflow: hidden;
 	display: block;
 	clear: both;
-	background: #131313;
+	background: radial-gradient(circle at top left, #a3c9e2, #9618f7);
 	padding: 24px 0;
 	position: relative;
 }
@@ -432,7 +432,7 @@ ol {
 	font-size: 18px;
 	font-weight: 500;
 	color: #fff;
-	background: #ffb320;
+	background: radial-gradient(circle at top left, #ff0078, #f6efa7);
 	z-index: 1;
 }
 
